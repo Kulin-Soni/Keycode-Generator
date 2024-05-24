@@ -11,7 +11,7 @@ I'll tell you how it works.
 - Every letter is seperated by '-' character. The blank space between two words is said as `00`.
 - Characters which aren't in the list are removed.
 
-This can be vice-versa for converting keycode to normal text.
+This can be vice-versa for converting keycode to normal text.\n
 ℹ️ Remember that keycode only returns CAPITALS and it also processes your normal text inputs as CAPITALS too (even if you give as small caps).
 
 
