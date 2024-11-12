@@ -60,4 +60,4 @@ This can be vice-versa for converting keycode to normal text.
 | -   | 11    |
 
 
-**You can run the project on your machine and see how i works**
+**You can run the project on your machine and see how it works**
