@@ -60,4 +60,4 @@ This can be vice-versa for converting keycode to normal text.
 | -   | 11    |
 
 
-**[View Project](https://keylang.vercel.app)**
+**You can run the project on your machine and see how i works**
